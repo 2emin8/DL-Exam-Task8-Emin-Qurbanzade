@@ -1,7 +1,7 @@
 # Task 8: Food Classification (5 Types)
 
-**Student:** [Sizin Adınız]  
-**Seed:** 20240108  
+**Student:** Emin Qurbanzadə  
+**Seed:** 20240205  
 **Target Accuracy:** ≥85%  
 **Status:** ✅ Achieved (90.32%)
 
