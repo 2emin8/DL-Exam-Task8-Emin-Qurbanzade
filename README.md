@@ -1,5 +1,9 @@
 Task 8: Food Classification (5 Types)
-Student: Emin Qurbanzade ID: S205 Seed: 20240205 Presentation
+Student: Emin Qurbanzade ID: S205 Seed: 20240205 
+
+Presentation
+
+https://docs.google.com/presentation/d/1f0vKaDkSsyS_A2PDIBsaqqnj2zBrmVJY/edit?usp=drive_link&ouid=116274627675063122536&rtpof=true&sd=true
 
 Dataset
 
