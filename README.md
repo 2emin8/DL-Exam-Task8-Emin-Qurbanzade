@@ -30,11 +30,11 @@
 ## Results & Analysis
 
 ### 1. Training Comparison Plot
-![Training Comparison](results/training_comparison.png)
+![Training Comparison](results\training-comparison.png)
 *Comparison of accuracy curves between Version 1 (Adam) and Version 2 (SGD).*
 
 ### 2. Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results\confusion-matrix.png)
 *5x5 Confusion Matrix showing high precision across all food types.*
 
 ### 3. Sample Predictions
