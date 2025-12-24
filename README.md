@@ -30,7 +30,7 @@
 ## Results & Analysis
 
 ### 1. Training Comparison Plot
-![Training Comparison](results\training-comparison.png)
+![Training Comparison](results/training_comparison.png)
 *Comparison of accuracy curves between Version 1 (Adam) and Version 2 (SGD).*
 
 ### 2. Confusion Matrix
