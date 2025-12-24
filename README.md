@@ -34,7 +34,7 @@
 *Comparison of accuracy curves between Version 1 (Adam) and Version 2 (SGD).*
 
 ### 2. Confusion Matrix
-![Confusion Matrix](results\confusion-matrix.png)
+![Confusion Matrix](results/confusion-matrix.png)
 *5x5 Confusion Matrix showing high precision across all food types.*
 
 ### 3. Sample Predictions
