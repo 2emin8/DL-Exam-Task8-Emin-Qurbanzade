@@ -6,7 +6,7 @@
 **Status:** ✅ Achieved (90.32%)
 
 ## 📽️ Presentation
-[Click here to view the Presentation Slides]([https://docs.google.com/presentation/d/1f0vKaDkSsyS_A2PDIBsaqqnj2zBrmVJY/edit?usp=drive_link&ouid=116274627675063122536&rtpof=true&sd=true](https://docs.google.com/presentation/d/1f0vKaDkSsyS_A2PDIBsaqqnj2zBrmVJY/edit?usp=sharing&ouid=116274627675063122536&rtpof=true&sd=true))
+[Click here to view the Presentation Slides]([https://docs.google.com/presentation/d/1f0vKaDkSsyS_A2PDIBsaqqnj2zBrmVJY/edit?usp=sharing&ouid=116274627675063122536&rtpof=true&sd=true])
 
 ## Dataset
 * **Name:** Food-101
